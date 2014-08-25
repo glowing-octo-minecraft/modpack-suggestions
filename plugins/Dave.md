@@ -1,0 +1,9 @@
+* Residence
+* WorldEdit
+* Essentials
+* MultiWorld
+* WorldBorder
+* Prism
+* PermissionsEx
+* VanishNoPacket
+* ChestShop
