@@ -53,6 +53,11 @@ Mods by Greg or Reika will be ignored, regardless of the number of votes.
 * Railcraft
 * MATMOS
 * Morph
+* Endertech
+* TCTweaks
+* MMMPS
+* InvTweaks
+* Big Reactors
 
 ##### AllyCat0405
 * Deco Craft
