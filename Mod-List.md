@@ -56,4 +56,10 @@
 * Minefactory Reloaded
 
 ##### Urbaal
-* 
+* Flans Guns
+* Tragic MC
+* Electrical Age
+* Metallurgy 4
+* Open Computer
+* Computer Craft
+* Chisel
