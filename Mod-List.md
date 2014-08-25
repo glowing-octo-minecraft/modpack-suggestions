@@ -50,6 +50,7 @@ Mods by Greg or Reika will be ignored, regardless of the number of votes.
 * Immibis Peripherals
 * MoarPeripherals
 * OpenPeripherals
+* Railcraft
 
 ##### AllyCat0405
 * Deco Craft
