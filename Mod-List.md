@@ -1,3 +1,5 @@
+Place all mods you want to see here. Each mod listed will count as a vote for that mod. The top 225 mods (including dependencies) will be conidered for addition to the pack. Of those 225, around 185 will be added to the final pack.
+
 ##### Dave
 * MobiusCore
 * Opis
@@ -7,6 +9,39 @@
 * Chisel
 * NEI
 * ChickenChunks
+* BigReactors
+* Forestry
+* IC2
+* Thaumcraft
+* Thaumic Tinkerer
+* Magic Bees
+* Enhanced Portals 3
+* RotaryCraft
+* Ars Magica 2
+* Biomes O' Plenty
+* Project Red
+* Applied Energistics
+* Thermal Expansion
+* Xeno's Reliquary
+* OpenBlocks
+* Extra Utilities
+* SecretRoomsMod
+* Sync
+* Galactacraft
+* Galactacraft Mars
+* Minefactory Reloaded
+* Pneumaticraft
+* Deco Craft
+* Flenix Cities/Vending
+* Open Blocks
+* Ender Storage
+* Gravestones
+* Tinkers Construct
+* Lots of food/More foods
+* Forge Microblocks
+* Nether Ore
+* More Bees
+* Pam's HarvestCraft
 
 ##### AllyCat0405
 * Deco Craft
