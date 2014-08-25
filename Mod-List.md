@@ -5,6 +5,8 @@
 * JABBA
 * Carpenter's Blocks
 * Chisel
+* NEI
+* ChickenChunks
 
 ##### AllyCat0405
 * Deco Craft
@@ -52,4 +54,3 @@
 * Galactacraft Mars
 * Buildcraft
 * Minefactory Reloaded
-* 
