@@ -41,6 +41,13 @@ Place all mods you want to see here. Each mod listed will count as a vote for th
 * More Bees
 * Pam's HarvestCraft
 * Witchery
+* Electrical Age
+* Open Computer
+* Computer Craft
+* RedPower 3
+* Immibis Peripherals
+* MoarPeripherals
+* OpenPeripherals
 
 ##### AllyCat0405
 * Deco Craft
