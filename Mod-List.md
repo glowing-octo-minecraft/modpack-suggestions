@@ -58,6 +58,7 @@ Mods by Greg or Reika will be ignored, regardless of the number of votes.
 * Endertech
 * TCTweaks
 * MMMPS
+* InvTweaks
 
 ##### AllyCat0405
 * Deco Craft
