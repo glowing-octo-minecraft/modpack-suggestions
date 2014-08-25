@@ -42,6 +42,7 @@ Place all mods you want to see here. Each mod listed will count as a vote for th
 * Nether Ore
 * More Bees
 * Pam's HarvestCraft
+* Witchery
 
 ##### AllyCat0405
 * Deco Craft
