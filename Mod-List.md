@@ -17,7 +17,6 @@ Place all mods you want to see here. Each mod listed will count as a vote for th
 * Magic Bees
 * Enhanced Portals 3
 * RotaryCraft
-* Ars Magica 2
 * Biomes O' Plenty
 * Project Red
 * Applied Energistics
