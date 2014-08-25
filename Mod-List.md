@@ -16,7 +16,6 @@ Place all mods you want to see here. Each mod listed will count as a vote for th
 * Thaumic Tinkerer
 * Magic Bees
 * Enhanced Portals 3
-* RotaryCraft
 * Biomes O' Plenty
 * Project Red
 * Applied Energistics
