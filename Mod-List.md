@@ -1,7 +1,5 @@
 Place all mods you want to see here. Each mod listed will count as a vote for that mod. The top 225 mods (including dependencies) will be considered for addition to the pack. Of those 225, around 185 will be added to the final pack.
 
-
-
 Mods by Greg or Reika will be ignored, regardless of the number of votes.
 
 ##### Dave
@@ -55,11 +53,6 @@ Mods by Greg or Reika will be ignored, regardless of the number of votes.
 * Railcraft
 * MATMOS
 * Morph
-* Endertech
-* TCTweaks
-* MMMPS
-* InvTweaks
-* Big Reactors
 
 ##### AllyCat0405
 * Deco Craft
@@ -116,3 +109,16 @@ Mods by Greg or Reika will be ignored, regardless of the number of votes.
 * Open Computer
 * Computer Craft
 * Chisel
+* NEI
+* Factorization
+* Router Reborn
+* Ropes+
+* Garden Stuff
+* Inv Tweaks
+* CraftHeraldry
+* Big Reactors
+* AOBD 2
+* Chisel Facades
+* Solar Expansion
+* Railcraft
+* 
