@@ -52,6 +52,7 @@ Mods by Greg or Reika will be ignored, regardless of the number of votes.
 * OpenPeripherals
 * Railcraft
 * MATMOS
+* Morph
 
 ##### AllyCat0405
 * Deco Craft
