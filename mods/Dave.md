@@ -53,3 +53,4 @@
 * MMMPS
 * InvTweaks
 * Big Reactors
+* Translocators
