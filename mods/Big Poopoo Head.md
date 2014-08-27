@@ -23,3 +23,11 @@
 * Galactacraft Mars
 * Buildcraft
 * Minefactory Reloaded
+* Extra Cells
+* Liquid Xp
+* Tinkers Construct
+* Extra TIC
+* ModularPowerSuits
+* ModulerPowerSuitsAddOns
+* MFFS
+* Pneumaticraft
