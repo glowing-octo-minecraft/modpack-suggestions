@@ -7,3 +7,4 @@
 * PermissionsEx
 * VanishNoPacket
 * ChestShop
+* Punishmentals
